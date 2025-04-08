@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(222, 195, 248);
+}
+
+h2 {
+    color:solid black;
+    text-align: center;
+}
+div {
+    background-color: white;
+    border-radius:5px;
+    padding: 10px;
+}
+
+button {
+    background-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+a {
+    color:white;
+    text-decoration: none;
+    font-size: medium;
+}
+#a1 {
+    color:blueviolet;
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+}
